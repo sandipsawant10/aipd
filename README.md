@@ -87,7 +87,7 @@ python Assignment_no_1.py
 
 ## 👨‍💻 Author
 
-**Prathmesh Wavhal**
+**Sandip Sawant**
 Artificial Intelligence & Data Science Student 🚀
 
 ---
